@@ -1,3 +1,9 @@
+* {
+  outline: 2px solid red;
+}
+
+
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
